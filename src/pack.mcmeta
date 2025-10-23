@@ -1,7 +1,10 @@
 {
     "pack": {
-        "pack_format": 18,
+        "pack_format": 48,
         "description": "Break trees with ease\n\u00A7rby \u00A7fZaliku",
-        "supported_formats": [18, 26]
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 88
+        }
     }
 }
